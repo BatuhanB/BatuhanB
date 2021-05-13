@@ -4,3 +4,4 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: bbdevelop.01@gmail.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhanb&show_icons=true&theme=radical)
