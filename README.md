@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?color=272D2D&logo=postgresql&logoColor=darkblue" alt="postgresql logo" title="postgresql"  height="25"/>]
 ### Reach Me
 - 📫 How to reach me: bbdevelop.01@gmail.com
+-  ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=blue) 
  
 ![BatuhanB's GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhanb&show_icons=true&theme=radical)
 
