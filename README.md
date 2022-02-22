@@ -1,5 +1,5 @@
 ##  < > My Technologies and Languages
-[
+<div align="center">
 <img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=orange"/>
 <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=blue"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -10,28 +10,33 @@
 <img src="https://img.shields.io/badge/Bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=purple" />
 <img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=darkblue" />
 <img src="https://img.shields.io/badge/Spring-323330?style=for-the-badge&logo=spring&logoColor=green"/>
-]
+
+
 ##  🛠 My Tools
-[
+
 <img src="https://img.shields.io/badge/Android_Studio-323330?style=for-the-badge&logo=android-studio&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Eclipse-323330?style=for-the-badge&logo=eclipse&logoColor=purple"/>
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Swagger-323330?style=for-the-badge&logo=Swagger&logoColor=green"/>
 <img src="https://img.shields.io/badge/Visual_Studio-323330?style=for-the-badge&logo=visual%20studio&logoColor=blue"/>
-]
+
 
 ## 📖 Currently Learning
-[
+
+
 <img src="https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=flutter&logoColor=blue" />
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-323330?style=for-the-badge&logo=dart&logoColor=blue"/>
 <img src="https://img.shields.io/badge/NuGet-323330?style=for-the-badge&logo=nuget&logoColor=blue"/>
-]
+
+
 ### Reach Me
-- 📫 How to reach me: bbdevelop.01@gmail.com
-- ![](https://komarev.com/ghpvc/?username=batuhanb)
+
+
+ 📫 How to reach me: bbdevelop.01@gmail.com <br/><br/>
+ ![](https://komarev.com/ghpvc/?username=batuhanb)
  
-![BatuhanB's GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhanb&show_icons=true&theme=radical)
+ </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanb&theme=radical)](https://github.com/batuhanb/github-readme-stats)
-
+ <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=batuhanb&show_icons=true&theme=radical" alt="ovi" /></p>
+<p>&nbsp;<img align="right" width="47%"src="https://github-readme-stats.vercel.app/api?username=batuhanb&show_icons=true&theme=radical" alt="ovi" width="410" /></p>
