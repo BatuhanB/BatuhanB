@@ -1,22 +1,29 @@
 ##  < > My Technologies and Languages
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-<img src="https://img.shields.io/badge/C%23-239120?color=272D2D&logo=c-sharp&logoColor=purple" alt="c-sharp logo" title="c-sharp"  height="25"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?color=272D2D&logo=java&logoColor=orange" alt="java logo" title="java"  height="25"/>
-<img src="https://img.shields.io/badge/C-00599C?color=272D2D&logo=c&logoColor=blue" alt="c logo" title="c"  height="25"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?color=272D2D&logo=bootstrap&logoColor=purple" alt="bootstrap logo" title="bootstrap"  height="25"/>]
+<img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=orange"/>
+<img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=blue"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=blue"/>
+<img src="https://img.shields.io/badge/C-323330?style=for-the-badge&logo=c&logoColor=white"/>
 
-## 🛠 My Tools
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-<img src="https://badges.aleen42.com/src/visual_studio_dfc.svg"/>]
+<img src="https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=red"/>
+<img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=orange" />
+<img src="https://img.shields.io/badge/Bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=purple" />
+<img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=darkblue" />
+<img src="https://img.shields.io/badge/Spring-323330?style=for-the-badge&logo=spring&logoColor=green"/>
+
+##  🛠 My Tools
+<img src="https://img.shields.io/badge/Android_Studio-323330?style=for-the-badge&logo=android-studio&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Eclipse-323330?style=for-the-badge&logo=eclipse&logoColor=purple"/>
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Swagger-323330?style=for-the-badge&logo=Swagger&logoColor=green"/>
+<img src="https://img.shields.io/badge/Visual_Studio-323330?style=for-the-badge&logo=visual%20studio&logoColor=blue"/>
 
 ## 📖 Currently Learning
-[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?color=272D2D&logo=spring&logoColor=green" alt="spring logo" title="Spring" heiht="25" width="79" />
-<img src="https://img.shields.io/badge/Java-ED8B00?color=272D2D&logo=java&logoColor=orange" alt="java logo" title="java"  height="25"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?color=272D2D&logo=postgresql&logoColor=darkblue" alt="postgresql logo" title="postgresql"  height="25"/>]
+<img src="https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=flutter&logoColor=blue" />
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-323330?style=for-the-badge&logo=dart&logoColor=blue"/>
+<img src="https://img.shields.io/badge/NuGet-323330?style=for-the-badge&logo=nuget&logoColor=blue"/>
+
 ### Reach Me
 - 📫 How to reach me: bbdevelop.01@gmail.com
 - ![](https://komarev.com/ghpvc/?username=batuhanb)
