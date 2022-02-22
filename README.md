@@ -38,5 +38,5 @@
  
  </div>
 
- <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=batuhanb&show_icons=true&theme=radical" alt="ovi" /></p>
-<p>&nbsp;<img align="right" width="47%"src="https://github-readme-stats.vercel.app/api?username=batuhanb&show_icons=true&theme=radical" alt="ovi" width="410" /></p>
+ <p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=batuhanb&show_icons=true&theme=radical&layout=compact" /></p>
+ <p>&nbsp;<img align="right" width="47%"src="https://github-readme-stats.vercel.app/api?username=batuhanb&show_icons=true&theme=radical"/></p>
