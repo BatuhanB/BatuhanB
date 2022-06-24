@@ -26,6 +26,7 @@
 
 <img src="https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=flutter&logoColor=blue" />
 <!--<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>--!>
+<img src="https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=red"/>
 <img src="https://img.shields.io/badge/Dart-323330?style=for-the-badge&logo=dart&logoColor=blue"/>
 <img src="https://img.shields.io/badge/NuGet-323330?style=for-the-badge&logo=nuget&logoColor=blue"/>
 
