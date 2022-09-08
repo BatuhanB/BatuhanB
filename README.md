@@ -10,6 +10,8 @@
 <img src="https://img.shields.io/badge/Bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=purple" />
 <img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=darkblue" />
 <img src="https://img.shields.io/badge/Spring-323330?style=for-the-badge&logo=spring&logoColor=green"/>
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=red"/>
 
 
 ##  🛠 My Tools
@@ -21,14 +23,14 @@
 <img src="https://img.shields.io/badge/Visual_Studio-323330?style=for-the-badge&logo=visual%20studio&logoColor=blue"/>
 
 
-## 📖 Currently Learning
+<!--## 📖 Currently Learning
 
 
 <img src="https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=flutter&logoColor=blue" />
-<!--<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>--!>
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=red"/>
 <img src="https://img.shields.io/badge/Dart-323330?style=for-the-badge&logo=dart&logoColor=blue"/>
-<img src="https://img.shields.io/badge/NuGet-323330?style=for-the-badge&logo=nuget&logoColor=blue"/>
+<img src="https://img.shields.io/badge/NuGet-323330?style=for-the-badge&logo=nuget&logoColor=blue"/>-->
 
 
 ### Reach Me
