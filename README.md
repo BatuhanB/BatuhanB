@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=purple" />
 <img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=darkblue" />
 <img src="https://img.shields.io/badge/Spring-323330?style=for-the-badge&logo=spring&logoColor=green"/>
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+<!--<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>-->
 <img src="https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=red"/>
 
 
