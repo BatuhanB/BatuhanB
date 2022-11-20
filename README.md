@@ -3,13 +3,13 @@
 <!--<img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=orange"/>-->
 <!--<img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=blue"/>-->
 <!--<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />-->
-<img src="https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=blue"/>
+<img src="https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=blue" />
 <!--<img src="https://img.shields.io/badge/C-323330?style=for-the-badge&logo=c&logoColor=white"/>-->
-<img src="https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=red"/>
+<img src="https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=red" />
 <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=orange" />
 <!--<img src="https://img.shields.io/badge/Bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=purple" />-->
-<!--<img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=darkblue" />-->
-<!--<img src="https://img.shields.io/badge/Spring-323330?style=for-the-badge&logo=spring&logoColor=green"/>-->
+<img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=darkblue" />
+<img src="https://img.shields.io/badge/Spring-323330?style=for-the-badge&logo=spring&logoColor=green"/>
 <!--<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>-->
 <!--<img src="https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=red"/>-->
 
