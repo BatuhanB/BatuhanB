@@ -1,45 +1,18 @@
-##  My Technologies and Languages
-<div align="center">
-<!--<img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=orange"/>-->
-<!--<img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=blue"/>-->
-<!--<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />-->
-<img src="https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=blue" />
-<!--<img src="https://img.shields.io/badge/C-323330?style=for-the-badge&logo=c&logoColor=white"/>-->
-<img src="https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=red" />
-<img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=orange" />
-<!--<img src="https://img.shields.io/badge/Bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=purple" />-->
-<img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=darkblue" />
-<img src="https://img.shields.io/badge/Spring-323330?style=for-the-badge&logo=spring&logoColor=green"/>
-<!--<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>-->
-<!--<img src="https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=red"/>-->
+# 💫 About Me:
+I’m currently working as a Software Developer.<br>If you want to reach me > bbdevelop.01@gmail.com
 
 
-<!--##  🛠 My Tools
+## 🌐 Socials:
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@balibatuhan19) 
 
-<img src="https://img.shields.io/badge/Android_Studio-323330?style=for-the-badge&logo=android-studio&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Eclipse-323330?style=for-the-badge&logo=eclipse&logoColor=purple"/>
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Swagger-323330?style=for-the-badge&logo=Swagger&logoColor=green"/>
-<img src="https://img.shields.io/badge/Visual_Studio-323330?style=for-the-badge&logo=visual%20studio&logoColor=blue"/>-->
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BatuhanB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BatuhanB&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=BatuhanB&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!--## 📖 Currently Learning
-
-
-<img src="https://img.shields.io/badge/Flutter-323330?style=for-the-badge&logo=flutter&logoColor=blue" />
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=red"/>
-<img src="https://img.shields.io/badge/Dart-323330?style=for-the-badge&logo=dart&logoColor=blue"/>
-<img src="https://img.shields.io/badge/NuGet-323330?style=for-the-badge&logo=nuget&logoColor=blue"/>-->
-
-
-### Reach Me
-
-
- 📫 How to reach me: bbdevelop.01@gmail.com <br/><br/>
- ![](https://komarev.com/ghpvc/?username=batuhanb)
- 
- </div>
-
- <p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=batuhanb&show_icons=true&theme=radical&layout=compact" /></p>
- <p>&nbsp;<img align="right" width="47%"src="https://github-readme-stats.vercel.app/api?username=batuhanb&show_icons=true&theme=radical"/></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
